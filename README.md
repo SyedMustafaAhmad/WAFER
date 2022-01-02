@@ -4,8 +4,10 @@ World Aquifier Forecast Engine & Research is a project that aims to provide:
 - An elaborate system for prediction of aquifer levels in the future
 - A place for others to contribute to the methods, tools and data to improve the project
 
-## Dependencies:
-TBD
+## Requirements:
+### Platform:
+### Dependencies:
+### Hardware:
 
 ## How to use:
 TBD
